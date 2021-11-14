@@ -4,7 +4,7 @@ from magic_square import formingMagicSquare
 class TestFormingMagicSquare(unittest.TestCase):
     def test_random_square_combination(self):
         """
-        Testing if the formingMagicSquare function can corretly detect the cost for transforming a random square into a magic square.
+        Testing if the formingMagicSquare function can correctly detect the cost for transforming a random (3x3) square into a magic square.
         """
         s = [[5, 3, 4], [1, 5, 8], [6, 4, 2]]
         
