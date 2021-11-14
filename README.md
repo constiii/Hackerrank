@@ -1,7 +1,8 @@
 # Hackerrank
-This repository contains my solutions for a couple of
+This repository contains my solutions for a couple of coding challenges from hackerrank.com.
+The challenges are from the categories
 
-- medium coding challenges
-- hard coding challenges 
-
-from hackerrank.com, both for the categories problem solving and algorithms & data structures (Python 3).
+- problem solving (medium to hard) 
+- algorithms & data structures (medium to hard)
+ 
+and were solved with a focus on minimizing time and space complexity (Python 3).
